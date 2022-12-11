@@ -1,0 +1,1 @@
+LA.init({id:"JmsRdzV6syTLtUyn",ck:"JmsRdzV6syTLtUyn",hashMode:!0}),(new LingQue.Monitor).init({id:"JntPZhhCgIfMtOhJ",sendSpaPv:!0});
